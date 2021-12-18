@@ -1,6 +1,6 @@
 {
   "name": "react-page-size-select",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react-page-size-select",
   "main": "./lib/index.js",
   "types": "./src/index.ts",
