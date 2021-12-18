@@ -1,7 +1,7 @@
 {
   "name": "react-page-size-select",
-  "version": "0.0.1",
-  "description": "reflect",
+  "version": "0.0.2",
+  "description": "react-page-size-select",
   "main": "./lib/index.js",
   "types": "./src/index.ts",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/common-ts/react-page-size-select"
+    "url": "git@github.com/core-ts/react-page-size-select"
   },
   "keywords": [
     "react-page-size-select"
